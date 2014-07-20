@@ -1,0 +1,82 @@
+.containerone{
+
+	min-height: 350px;
+	min-width: 95%;
+	position: relative;
+	margin-top: 100PX;
+	background-color: hsla(0, 100%, 100%, 1.0);
+	margin-left: 0;
+}
+
+.imageclass1{
+	margin-left: 100px;
+	margin-top: 30px;
+}
+.imageone{
+	margin-left: 40px;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+
+/*.container2{
+background-color: #FF0000;
+
+min-width: 100%;
+min-height: 400px;
+position: relative;
+}*/
+.containerthree{
+	width: 100%;
+	min-height: 200px;
+background-color: hsla(0, 100%, 100%, 1.0);
+margin-left: 100px;
+min-width: 300px;
+position: relative;
+}
+.containerfour{
+	width: 100%;
+	min-height: 200px;
+	background-color: hsla(0, 100%, 100%, 1.0);
+	
+}
+.bodystyle{
+	background-color: hsla(0, 100%, 100%, 1.0);
+	
+}
+.containertwo{
+	background-color: hsla(0, 100%, 100%, 1.0);
+	width: 100%;
+	min-height: 400px;
+	margin-top: 10px;
+}
+.frame{
+	margin-left: 0px;
+	margin-right: 10px;
+}
+.imgcon{
+	margin-left: 160px;
+	width: 80%;
+	height: 380px;
+	margin-top: 30px;
+}
+.mapframe{
+	padding-left: 0px;
+	margin-left: 0px;
+	margin-right: 40px;
+	margin-bottom: 0px;
+}
+.panelone{
+	width: 100%;
+	min-height: 300px;
+	margin-left: 90px;
+	
+}
+.panelfooter{
+	padding-bottom: 0px;
+}
+.row2{
+	background-color: hsla(0, 100%, 100%, 1.0);
+	width: 100%;
+	min-width: 200px;
+	margin-top: 0px;
+}

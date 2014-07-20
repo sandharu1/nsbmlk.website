@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.panel-heading a:after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";    
+    float: right; 
+    color: grey; 
+}
+.panel-heading a.collapsed:after {
+    content: "\e080";
+}
+
+.wideP{
+	width:80%;
+	border-color:hsla(180,100%,70%,1);
+}
+.con1{
+	margin-top:120px;
+}
+.con1 h4{
+	font-family:aclonica;
+	font-weight:500;
+	color:hsla(270,100%,20%,1);
+}
